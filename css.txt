@@ -1,0 +1,12 @@
+1
+if id 
+#header
+2
+display: flex is for the list to be side by side
+3
+for class
+.firstsection
+
+
+
+skills work exp education
